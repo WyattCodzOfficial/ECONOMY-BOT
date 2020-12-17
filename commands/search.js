@@ -2,7 +2,7 @@ exports.execute = async (client, message, args) => {
     let users = [
         "Pocket",
         "T-Shirt",
-        "Zero's Databse",
+        "Wyatts Discord",
         "Street"
     ];
     let amount = Math.floor(Math.random() * 200) + 50;
